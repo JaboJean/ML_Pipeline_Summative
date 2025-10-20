@@ -39,7 +39,7 @@ The notebook also includes visualizations such as:
 
 ## 🚀 How to Use
 
-1. Open the notebook `Intro_to_ML_Summative.ipynb` in [Google Colab](https://colab.research.google.com/) or Jupyter.  
+1. Open the notebook `Intro_to_ML_Summative.ipynb` in [Google Colab](https://colab.research.google.com/drive/1kcATkUWZPgOfz1C2TQSrLkb6drZO1UTp#scrollTo=LN1FXiaQZ_u7) or Jupyter.  
 2. Upload the dataset (`goldstock_v2.csv`) if prompted.  
 3. Run all cells sequentially to:
    - Preprocess data  
@@ -57,6 +57,9 @@ The notebook also includes visualizations such as:
 - Matplotlib, Seaborn
 
 ---
+## Links
+Report Link: https://docs.google.com/document/d/1T_UfDhzEhguEsYYowO0r9Hr52reLzho3G12tN0Y2Rfo/edit?tab=t.0
+
 
 ## 📜 Author
 
